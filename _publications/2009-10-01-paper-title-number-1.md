@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Medicaid and the Labor Supply of Single Mothers: Implications for Health Care Reform"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Medicaid-Labor-Supply-Single-Mothers
+excerpt: 'The Medicaid expansions and health insurance subsidies of the Affordable Care Act (ACA) change work incentives for single mothers. To evaluate the employment effects of these policies ex ante, I estimate a model of labor supply and health insurance choice exploiting variation in pre-ACA Medicaid policies. Simulations show that single mothers increase their labor supply at the extensive and intensive margin by 12% and 7%, respectively, uninsurance rates decline by up to 40%, and an average family’s welfare improves by 1,600 dollars per year. Health insurance subsidies and not Medicaid expansions mostly drive these effects.'
+date: 2018-08-01
+venue: 'International Economic Review'
+paperurl: 'http://rvpohl.github.io/files/Pohl_Medicaid.pdf'
+citation: 'Pohl, R. Vincent. (2018). &quot;Medicaid and the Labor Supply of Single Mothers: Implications for Health Care Reform.&quot; <i>International Economic Review 1</i>. 59(3), pp. 1283–1313.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The Medicaid expansions and health insurance subsidies of the Affordable Care Act (ACA) change work incentives for single mothers. To evaluate the employment effects of these policies ex ante, I estimate a model of labor supply and health insurance choice exploiting variation in pre-ACA Medicaid policies. Simulations show that single mothers increase their labor supply at the extensive and intensive margin by 12% and 7%, respectively, uninsurance rates decline by up to 40%, and an average family’s welfare improves by 1,600 dollars per year. Health insurance subsidies and not Medicaid expansions mostly drive these effects.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://rvpohl.github.io/files/Pohl_Medicaid.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Pohl, R. Vincent. (2018). "Medicaid and the Labor Supply of Single Mothers: Implications for Health Care Reform" <i>International Economic Review 1</i>. 59(3), pp. 1283–1313.
