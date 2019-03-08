@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "R. Vincent Pohl"
   avatar           : "profile.png"
-  bio              : "Assistant Professor"
+  bio              : "I am an Assistant Professor in the Department of Economics at the Terry College of Business at the University of Georgia. I am also a Research Fellow at RWI–Leibniz Institute for Economic Research and an Affiliate at the Hamburg Center for Health Economics. I obtained my undergrad degree from the University of Mannheim and my PhD from Yale University."
   location         : "Athens, GA"
   employer         : "University of Georgia"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "pohl [at] uga [dot] edu"
+  email            : "pohl@uga.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
