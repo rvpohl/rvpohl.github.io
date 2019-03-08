@@ -2,7 +2,6 @@
 title: "Medicaid and the Labor Supply of Single Mothers: Implications for Health Care Reform"
 collection: publications
 permalink: /publication/Pohl_Medicaid
-excerpt: ''
 date: 2018-08-01
 venue: 'International Economic Review'
 paperurl: 'http://rvpohl.github.io/files/Pohl_Medicaid.pdf'
