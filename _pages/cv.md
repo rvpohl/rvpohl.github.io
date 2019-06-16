@@ -39,5 +39,5 @@ redirect_from:
 * W.E. Upjohn Institute for Employment Research Dissertation Award, Honorable Mention, 2012
 * Yale University Graduate Fellowship and Economics Department Prize, 2006 to 2011
 * European Recovery Program Scholarship, 2006 to 2008
-* *Studienstiftung des deutschen Volkes* (German Merit Foundation) fellowship, 2001 to 2006
-* *Deutscher Akademischer Austausch Dienst* (German Academic Exchange Service) fellowship, 2004/2005
+* *Studienstiftung des deutschen Volkes* (German Academic Scholarship Foundation) fellowship, 2001 to 2006
+* *Deutscher Akademischer Austauschdienst* (German Academic Exchange Service) fellowship, 2004/2005
