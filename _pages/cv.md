@@ -14,7 +14,7 @@ redirect_from:
 ## Education
 
 * Ph.D. in Economics, Yale University, 2012
-* Diplom-Volkswirt (master's in Economics), University of Mannheim, 2006
+* *Diplom-Volkswirt* (master's in Economics), University of Mannheim, 2006
 * Visiting graduate student, University of California at Berkeley, 2004/2005
 
 ## Positions
@@ -27,11 +27,11 @@ redirect_from:
 
 ## Grants, Fellowships, and Awards
 
-W.E. Upjohn Institute for Employment Research Early Career Research Award (with Rhet A. Smith and Julio Garin), 2019/2020
+W.E. Upjohn Institute for Employment Research Early Career Research Award (PI: Rhet A. Smith), 2019/2020
 
 W.E. Upjohn Institute for Employment Research Early Career Research Award, 2017/2018
 
-California Center for Population Research seed grant (with Martin B. Hackmann), 2016/2017
+California Center for Population Research seed grant (PI: Martin B. Hackmann), 2016/2017
 
 Terry College of Business seed grant, 2016/2017
 
