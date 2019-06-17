@@ -27,8 +27,8 @@ redirect_from:
 
 * Research Fellow, [RWI–Leibniz Institute for Economic Research](http://en.rwi-essen.de), August 2018 to present
 * Affiliate, [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de), January 2018 to present
-* Deemed Employee, Statistics Canada, November 2013 to present
-* Special Sworn Status Researcher, U.S. Census Bureau, August 2010 to present
+* Deemed Employee, [Statistics Canada](https://www.statcan.gc.ca/eng/start), November 2013 to present
+* Special Sworn Status Researcher, [U.S. Census Bureau](https://www.census.gov), August 2010 to present
 
 ## Grants, Fellowships, and Awards
 
