@@ -13,9 +13,9 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Economics, Yale University, 2012
-* *Diplom-Volkswirt* (master's in Economics), University of Mannheim, 2006
-* Visiting graduate student, University of California at Berkeley, 2004/2005
+* Ph.D. in Economics, [Yale University](https://economics.yale.edu), 2012
+* *Diplom-Volkswirt* (master's in Economics), [University of Mannheim](https://www.vwl.uni-mannheim.de/en/), 2006
+* Visiting graduate student, [University of California at Berkeley](https://www.econ.berkeley.edu), 2004/2005
 
 ## Employment
 
