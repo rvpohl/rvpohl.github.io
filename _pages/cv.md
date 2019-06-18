@@ -32,15 +32,11 @@ redirect_from:
 
 ## Grants, Fellowships, and Awards
 
-* W.E. Upjohn Institute for Employment Research Early Career Research Award (PI: Rhet A. Smith), 2019/2020
-* W.E. Upjohn Institute for Employment Research Early Career Research Award, 2017/2018
+* W.E. Upjohn Institute for Employment Research Early Career Research Award, 2019/2020 (PI: Rhet A. Smith), 2017/2018, and  2013/2014
 * California Center for Population Research seed grant (PI: Martin B. Hackmann), 2016/2017
 * Terry College of Business seed grant, 2016/2017
-* Queen's University Senate Advisory Research Committee Grant, 2015/2016
+* Queen's University Senate Advisory Research Committee Grant, 2015/2016, 2014/2015, and 2013/2014
 * John Deutsch Institute Grant, 2014/2015
-* Queen's University Senate Advisory Research Committee Grant, 2014/2015
-* W.E. Upjohn Institute for Employment Research Early Career Research Award, 2013/2014
-* Queen's University Senate Advisory Research Committee Grant, 2013/2014
 * W.E. Upjohn Institute for Employment Research Dissertation Award, Honorable Mention, 2012
 * Yale University Graduate Fellowship and Economics Department Prize, 2006 to 2011
 * European Recovery Program Scholarship, 2006 to 2008
