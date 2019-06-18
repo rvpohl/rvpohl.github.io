@@ -6,8 +6,6 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-<p>Click on paper title for abstract and more information.</p>
-
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
