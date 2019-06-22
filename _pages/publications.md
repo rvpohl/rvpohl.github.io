@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Click on paper titles for abstracts and more information.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
