@@ -40,5 +40,12 @@ redirect_from:
 * W.E. Upjohn Institute for Employment Research Dissertation Award, Honorable Mention, 2012
 * Yale University Graduate Fellowship and Economics Department Prize, 2006 to 2011
 * European Recovery Program Scholarship, 2006 to 2008
-* *Studienstiftung des deutschen Volkes* (German Academic Scholarship Foundation) fellowship, 2001 to 2006
-* *Deutscher Akademischer Austauschdienst* (German Academic Exchange Service) fellowship, 2004/2005
+* *Studienstiftung des deutschen Volkes* (German Academic Scholarship Foundation) scholarship, 2001 to 2006
+* *Deutscher Akademischer Austauschdienst* (German Academic Exchange Service) scholarship, 2004/2005
+
+## Ph.D. Students
+
+* [Meghan I. Esson](https://sites.google.com/view/meghan-i-esson/home) (2019, first placement: Assistant Professor, Bentley University)
+* [Kimberly D. Groover](https://sites.google.com/view/kimberlydgroover/home) (2019, first placement: Economist, Abt Associates)
+* [Vincent Chandler](https://sites.google.com/view/meghan-i-esson/home) (2014, first placement: Assistant Professor, St. Mary’s University, current position: Assistant Professor, Université du Québec en Outaouais)
+* [Dörte Heger](http://en.rwi-essen.de/dorte-heger) (2014, first placement: Researcher, RWI–Leibniz Institute for Economic Research)
