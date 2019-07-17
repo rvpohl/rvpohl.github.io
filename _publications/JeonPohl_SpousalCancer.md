@@ -12,3 +12,5 @@ citation: 'Jeon, Sung-Hee and R. Vincent Pohl. 2017. &quot;Health and Work in th
 [Online Appendix](http://rvpohl.github.io/files/JeonPohl_SpousalCancer_App.pdf)
 
 Media coverage: [NPR (WUGA)](https://wuga.org/news/cancer-may-cause-family-households-to-have-lower-incomes-says-new-uga-study), [U.S. News & World Report](http://health.usnews.com/health-care/articles/2017-04-27/money-pressures-mount-when-a-spouse-gets-cancer), [Consumer Affairs](https://www.consumeraffairs.com/news/the-high-cost-of-cancer-042617.html), [Specialty Pharmacy Times](https://www.specialtypharmacytimes.com/news/household-income-lowers-when-one-spouse-is-diagnosed-with-cancer)
+
+French working paper version: Jeon, Sung-Hee and R. Vincent Pohl. 2016. [“Santé et travail dans la famille : les données probantes liées au diagnostic de cancer d’un conjoint.”](https://www150.statcan.gc.ca/n1/pub/11f0019m/11f0019m2016381-fra.htm) Direction des études analytiques : documents de recherche No 381.
