@@ -2,7 +2,7 @@
 title: "Medical Innovation, Education, and Labor Market Outcomes of Cancer Patients"
 collection: workingpapers
 permalink: /workingpapers/JeonPohl_CancerInnovation
-date: 2019-03-07
+date: 2019-07-29
 paperurl: 'http://rvpohl.github.io/files/JeonPohl_CancerInnovation.pdf'
 citation: 'Jeon, Sung-Hee and R. Vincent Pohl. 2019. &quot;Medical Innovation, Education, and Labor Market Outcomes of Cancer Patients.&quot; Unpublished manuscript.’
 ---
