@@ -19,7 +19,7 @@ redirect_from:
 
 ## Employment
 
-* Researcher, [Mathematica Policy Research](https://www.mathematica-mpr.com), starting August 2019
+* Researcher, [Mathematica](https://www.mathematica-mpr.com), August 2019 to present
 * Assistant Professor, [Department of Economics](http://www.terry.uga.edu/academics/offices/economics/), [University of Georgia](https://www.uga.edu), August 2015 to July 2019
 * Assistant Professor, [School of Policy Studies](https://www.queensu.ca/sps/home)/[Industrial Relations Program](https://mir.queensu.ca) and [Economics Department](https://www.econ.queensu.ca), [Queen's University](https://www.queensu.ca), July 2012 to July 2015
 
