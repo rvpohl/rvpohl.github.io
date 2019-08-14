@@ -13,13 +13,13 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Economics, [Yale University](https://economics.yale.edu), 2012
+* PhD in Economics, [Yale University](https://economics.yale.edu), 2012
 * *Diplom-Volkswirt* (master's in Economics), [University of Mannheim](https://www.vwl.uni-mannheim.de/en/), 2006
 * Visiting graduate student, [University of California at Berkeley](https://www.econ.berkeley.edu), 2004/2005
 
 ## Employment
 
-* Researcher, [Mathematica](https://www.mathematica-mpr.com), August 2019 to present
+* Researcher, [Mathematica Policy Research](https://www.mathematica-mpr.com), August 2019 to present
 * Assistant Professor, [Department of Economics](http://www.terry.uga.edu/academics/offices/economics/), [University of Georgia](https://www.uga.edu), August 2015 to July 2019
 * Assistant Professor, [School of Policy Studies](https://www.queensu.ca/sps/home)/[Industrial Relations Program](https://mir.queensu.ca) and [Economics Department](https://www.econ.queensu.ca), [Queen's University](https://www.queensu.ca), July 2012 to July 2015
 
@@ -43,7 +43,7 @@ redirect_from:
 * *Studienstiftung des deutschen Volkes* (German Academic Scholarship Foundation), 2001 to 2006
 * *Deutscher Akademischer Austauschdienst* (German Academic Exchange Service), 2004/2005
 
-## Ph.D. Students
+## PhD Students
 
 * [Meghan I. Esson](https://sites.google.com/view/meghan-i-esson/home) (2019, first placement: Assistant Professor, Bentley University)
 * [Kimberly D. Groover](https://sites.google.com/view/kimberlydgroover/home) (2019, first placement: Economist, Abt Associates)
