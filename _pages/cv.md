@@ -47,5 +47,5 @@ redirect_from:
 
 * [Meghan I. Esson](https://sites.google.com/view/meghan-i-esson/home) (2019, first placement: Assistant Professor, Bentley University)
 * [Kimberly D. Groover](https://sites.google.com/view/kimberlydgroover/home) (2019, first placement: Economist, Abt Associates)
-* [Vincent Chandler](https://sites.google.com/view/meghan-i-esson/home) (2014, first placement: Assistant Professor, St. Mary’s University, current position: Assistant Professor, Université du Québec en Outaouais)
+* [Vincent Chandler](https://sites.google.com/view/meghan-i-esson/home) (2014, first placement: Assistant Professor, St. Mary’s University; current position: Assistant Professor, Université du Québec en Outaouais)
 * [Dörte Heger](http://en.rwi-essen.de/dorte-heger) (2014, first placement: Researcher, RWI–Leibniz Institute for Economic Research)
