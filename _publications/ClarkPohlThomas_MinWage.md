@@ -2,7 +2,7 @@
 title: "Minimum Wages and Healthy Diet "
 collection: publications
 permalink: /publications/ClarkPohlThomas_MinWage
-date: 2019-09-09
+date: 2019-12-13
 paperurl: 'http://rvpohl.github.io/files/ClarkPohlThomas_MinWage.pdf'
 citation: Clark, Kathryn L., R. Vincent Pohl, and Ryan C. Thomas. 2019. “Minimum Wages and Healthy Diet.” Forthcoming at *Contemporary Economic Policy*.
 ---
