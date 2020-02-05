@@ -13,22 +13,22 @@ redirect_from:
 
 ## Education
 
-* PhD in Economics, [Yale University](https://economics.yale.edu), 2012
-* *Diplom-Volkswirt* (master's in Economics), [University of Mannheim](https://www.vwl.uni-mannheim.de/en/), 2006
+* PhD in Economics, [Yale University](https://economics.yale.edu), 2006–2012
+* *Diplom-Volkswirt* (master's in Economics), [University of Mannheim](https://www.vwl.uni-mannheim.de/en/), 2001–2006
 * Visiting graduate student, [University of California at Berkeley](https://www.econ.berkeley.edu), 2004/2005
 
 ## Employment
 
-* Researcher, [Mathematica](https://www.mathematica-mpr.com), August 2019 to present
-* Assistant Professor, [Department of Economics](http://www.terry.uga.edu/academics/offices/economics/), [University of Georgia](https://www.uga.edu), August 2015 to July 2019
-* Assistant Professor, [School of Policy Studies](https://www.queensu.ca/sps/home)/[Industrial Relations Program](https://mir.queensu.ca) and [Economics Department](https://www.econ.queensu.ca), [Queen's University](https://www.queensu.ca), July 2012 to July 2015
+* Researcher, [Mathematica](https://www.mathematica-mpr.com), 2019–present
+* Assistant Professor, [Department of Economics](http://www.terry.uga.edu/academics/offices/economics/), [University of Georgia](https://www.uga.edu), 2015–2019
+* Assistant Professor, [School of Policy Studies](https://www.queensu.ca/sps/home)/[Industrial Relations Program](https://mir.queensu.ca) and [Economics Department](https://www.econ.queensu.ca), [Queen's University](https://www.queensu.ca), 2012–2015
 
 ## Other Positions
 
-* Research Fellow, [RWI–Leibniz Institute for Economic Research](http://en.rwi-essen.de), August 2018 to present
-* Affiliate, [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de), January 2018 to present
-* Deemed Employee, [Statistics Canada](https://www.statcan.gc.ca/eng/start), November 2013 to present
-* Special Sworn Status Researcher, [U.S. Census Bureau](https://www.census.gov), August 2010 to present
+* Research Fellow, [RWI–Leibniz Institute for Economic Research](http://en.rwi-essen.de), 2018–present
+* Affiliate, [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de), 2018–present
+* Deemed Employee, [Statistics Canada](https://www.statcan.gc.ca/eng/start), 2013–2019
+* Special Sworn Status Researcher, [U.S. Census Bureau](https://www.census.gov), 2010–2019
 
 ## Grants, Fellowships, and Awards
 
@@ -45,7 +45,7 @@ redirect_from:
 
 ## PhD Students
 
-* [Meghan I. Esson](https://sites.google.com/view/meghan-i-esson/home) (2019, first placement: Assistant Professor, Bentley University)
-* [Kimberly D. Groover](https://sites.google.com/view/kimberlydgroover/home) (2019, first placement: Economist, Abt Associates)
-* [Vincent Chandler](https://sites.google.com/view/meghan-i-esson/home) (2014, first placement: Assistant Professor, St. Mary’s University; current position: Assistant Professor, Université du Québec en Outaouais)
-* [Dörte Heger](http://en.rwi-essen.de/dorte-heger) (2014, first placement: Researcher, RWI–Leibniz Institute for Economic Research)
+* [Meghan I. Esson](https://sites.google.com/view/meghan-i-esson/home) (2019, placement: Assistant Professor, Bentley University)
+* [Kimberly D. Groover](https://sites.google.com/view/kimberlydgroover/home) (2019,  placement: Economist, Abt Associates)
+* [Vincent Chandler](https://vincentchandler.webs.com/) (2014, placement: Assistant Professor, St. Mary’s University; current position: Assistant Professor, Université du Québec en Outaouais)
+* [Dörte Heger](http://en.rwi-essen.de/dorte-heger) (2014, placement: Researcher, RWI–Leibniz Institute for Economic Research)
