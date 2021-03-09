@@ -2,9 +2,9 @@
 title: "The Effect of Accidents on Labor Market Outcomes: Evidence from Chile"
 collection: publications
 permalink: /publications/ParroPohl_Accidents
-date: 2021-01-13
+date: 2021-03-01
 paperurl: 'http://rvpohl.github.io/files/ParroPohl_Accidents.pdf'
-citation: 'Parro, Francisco and R. Vincent Pohl. 2020. &quot;The Effect of Accidents on Labor Market Outcomes: Evidence from Chile.&quot; Accepted at <i>Health Economics</i>.'
+citation: 'Parro, Francisco and R. Vincent Pohl. 2021. &quot;The Effect of Accidents on Labor Market Outcomes: Evidence from Chile.&quot; <i>Health Economics</i>.'
 ---
 <i>Abstract:</i> 
 We estimate the causal effect of accidents on employment and earnings among
