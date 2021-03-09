@@ -22,4 +22,4 @@ consequences of health shocks go beyond direct medical expenses.
 
 [Online Appendix](http://rvpohl.github.io/files/ParroPohl_Accidents_App.pdf)
 
-Media coverage: [W.E. Upjohn Institute for Employment Research](https://www.upjohn.org/research-highlights/education-heads-earning-loss-health-shocks)
+Media and policy coverage: [W.E. Upjohn Institute for Employment Research](https://www.upjohn.org/research-highlights/education-heads-earning-loss-health-shocks)
