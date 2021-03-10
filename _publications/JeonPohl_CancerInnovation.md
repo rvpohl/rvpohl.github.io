@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/JeonPohl_CancerInnovation
 date: 2019-09-11
 paperurl: 'http://rvpohl.github.io/files/JeonPohl_CancerInnovation.pdf'
-citation: Jeon, Sung-Hee and R. Vincent Pohl. 2019. “Medical Innovation, Education, and Labor Market Outcomes of Cancer Patients.” <i>Journal of Health Economics</i> 68, 102228.
+citation: Jeon, Sung-Hee and R. Vincent Pohl. 2019. “Medical Innovation, Education, and Labor Market Outcomes of Cancer Patients.” <i>Journal of Health Economics</i> 68, 102228. DOI 10.1016/j.jhealeco.2019.102228.
+
 ---
 <i>Abstract:</i> Innovations in cancer treatment have lowered mortality, but little is known about their economic benefits. We assess the effect of two decades of improvement in cancer treatment options on the labor market outcomes of breast and prostate cancer patients. In addition, we compare this effect across cancer patients with different levels of educational attainment. We estimate the effect of medical innovation on cancer patients’ labor market outcomes employing tax return and cancer registry data from Canada and measuring medical innovation by using the number of approved drugs and a quality-adjusted patent index. We find that innovations in cancer treatment during the 1990s and 2000s reduced the negative employment effects of cancer by 63% to 70%, corresponding to a reduction in the economic costs of prostate and breast cancer diagnoses by 13,500 and 5,800 dollars per year, respectively. The benefits of medical innovation are limited to cancer patients with postsecondary education.
 
