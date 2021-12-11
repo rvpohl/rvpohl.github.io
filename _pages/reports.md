@@ -13,7 +13,7 @@ Bradley, Katharine, Jessica Heeringa, R. Vincent Pohl, James D. Reschovsky, and 
 
 Pohl, R. Vincent, and Katharine Bradley. [“Selection of Out-of-State Comparison Groups and the Synthetic Control Method.”](https://www.medicaid.gov/medicaid/section-1115-demo/downloads/evaluation-reports/outofstate-comp.pdf) White paper submitted to the Centers for Medicare & Medicaid Services. Washington, DC: Mathematica, October 2020.
 
-Kimmey, Laura, R. Vincent Pohl, Rumin Sarwar, Bob Schmitz, and Randall Brown. “HCIA Round 2 Evaluation: Four Seasons Compassion for Life.” Final report submitted to the Center for Medicare & Medicaid Innovation. Cambridge, MA: Mathematica, September 2020.
+Kimmey, Laura, R. Vincent Pohl, Rumin Sarwar, Bob Schmitz, and Randall Brown. [“HCIA Round 2 Evaluation: Four Seasons Compassion for Life.”](http://rvpohl.github.io/files/KimmeyPohlSawarSchmitzBrown_HCIA2.pdf) Final report submitted to the Center for Medicare & Medicaid Innovation. Cambridge, MA: Mathematica, September 2020.
 
 Pohl, R. Vincent. [“Medical Innovation and the Employment of Cancer Patients.”](https://research.upjohn.org/cgi/viewcontent.cgi?article=1285&context=empl_research) Policy brief. Kalamazoo, MI: W.E. Upjohn Institute for Employment Research, June 2019.
 
