@@ -19,9 +19,11 @@ redirect_from:
 
 ## Employment
 
-* Researcher, [Mathematica](https://www.mathematica-mpr.com), 2019–present
-* Assistant Professor, [Department of Economics](http://www.terry.uga.edu/academics/offices/economics/), [University of Georgia](https://www.uga.edu), 2015–2019
-* Assistant Professor, [School of Policy Studies](https://www.queensu.ca/sps/home)/[Industrial Relations Program](https://mir.queensu.ca) and [Economics Department](https://www.econ.queensu.ca), [Queen's University](https://www.queensu.ca), 2012–2015
+* [Mathematica](https://www.mathematica-mpr.com)
+** Senior Researcher, 2022–present
+** Researcher, 2019–2022
+* [University of Georgia](https://www.uga.edu), [Department of Economics](http://www.terry.uga.edu/academics/offices/economics/), Assistant Professor, 2015–2019
+* [Queen's University](https://www.queensu.ca), [School of Policy Studies](https://www.queensu.ca/sps/home)/[Industrial Relations Program](https://mir.queensu.ca) and [Economics Department](https://www.econ.queensu.ca), Assistant Professor, 2012–2015
 
 ## Other Positions
 
