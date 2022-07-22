@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Kranker, Keith, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Marlena Luhr, Lauren Vollmer Forrow, and Valerie Cheh. [“Evaluation of the Medicare Care Choices
-Model.”](https://innovation.cms.gov/data-and-reports/2022/mccm-fourth-annrpt) Annual Report 4 submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, April 2022.
+Keshaviah, Aparna, R. Vincent Pohl, Xindi C. Hu, Alyssa Maccarone, John Hotchkiss, Ian Huff, Hanzhi Zhou, Divya Vohra. [“The Effects of
+Healthy Davis Together: A COVID-19 Response Program.”](https://www.mathematica.org/download-media?MediaItemId={7AED3094-1DFB-4372-8941-126B552E7A1A}) Mathematica Brief, July 2022. 
+
+Kranker, Keith, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Marlena Luhr, Lauren Vollmer Forrow, and Valerie Cheh. [“Evaluation of the Medicare Care Choices Model.”](https://innovation.cms.gov/data-and-reports/2022/mccm-fourth-annrpt) Annual Report 4 submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, April 2022.
 
 Honeycutt, Todd, Amal Harrati, Andrew Langan, Gina Livermore, and R. Vincent Pohl. [“Evaluation Options for the Papers Developed Under the SSI Youth Solutions Project.”](https://www.mathematica.org/download-media?MediaItemId={D16252B7-1F81-4AE6-8577-3802A2F95B28}) Report submitted to the U.S. Department of Labor, Office of Disability Employment Policy. Princeton, NJ: Mathematica, October 2021.
 
