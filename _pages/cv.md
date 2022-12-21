@@ -11,12 +11,6 @@ redirect_from:
 
 [Download full CV in PDF format](https://rvpohl.github.io/files/CV_RVPohl.pdf)
 
-## Education
-
-* PhD in Economics, [Yale University](https://economics.yale.edu), 2006–2012
-* *Diplom-Volkswirt* (master's in Economics), [University of Mannheim](https://www.vwl.uni-mannheim.de/en/), 2001–2006
-* Visiting graduate student, [University of California at Berkeley](https://www.econ.berkeley.edu), 2004/2005
-
 ## Employment
 
 * [Mathematica](https://www.mathematica-mpr.com)
@@ -24,6 +18,12 @@ redirect_from:
     * Researcher, 2019–2022
 * [University of Georgia](https://www.uga.edu), [Department of Economics](http://www.terry.uga.edu/academics/offices/economics/), Assistant Professor, 2015–2019
 * [Queen's University](https://www.queensu.ca), [School of Policy Studies](https://www.queensu.ca/sps/home)/[Industrial Relations Program](https://mir.queensu.ca) and [Economics Department](https://www.econ.queensu.ca), Assistant Professor, 2012–2015
+
+## Education
+
+* PhD in Economics, [Yale University](https://economics.yale.edu), 2006–2012
+* *Diplom-Volkswirt* (master's in Economics), [University of Mannheim](https://www.vwl.uni-mannheim.de/en/), 2001–2006
+* Visiting graduate student, [University of California at Berkeley](https://www.econ.berkeley.edu), 2004/2005
 
 ## Other Positions
 
@@ -35,6 +35,7 @@ redirect_from:
 
 ## Grants, Fellowships, and Awards
 
+* Retirement and Disability Research Consortium grant, 2021/2022
 * W.E. Upjohn Institute for Employment Research Early Career Research Award, 2019/2020 (PI: Rhet A. Smith), 2017/2018, and  2013/2014
 * California Center for Population Research seed grant (PI: Martin B. Hackmann), 2016/2017
 * Terry College of Business seed grant, 2016/2017
