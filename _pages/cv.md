@@ -39,11 +39,11 @@ redirect_from:
 * W.E. Upjohn Institute for Employment Research Early Career Research Award, 2019/2020 (PI: Rhet A. Smith), 2017/2018, and  2013/2014
 * California Center for Population Research seed grant (PI: Martin B. Hackmann), 2016/2017
 * Terry College of Business seed grant, 2016/2017
-* Queen's University Senate Advisory Research Committee Grant, 2015/2016, 2014/2015, and 2013/2014
-* John Deutsch Institute Grant, 2014/2015
-* W.E. Upjohn Institute for Employment Research Dissertation Award, Honorable Mention, 2012
+* Queen's University Senate Advisory Research Committee grant, 2015/2016, 2014/2015, and 2013/2014
+* John Deutsch Institute grant, 2014/2015
+* W.E. Upjohn Institute for Employment Research Dissertation Award, honorable mention, 2012
 * Yale University Graduate Fellowship and Economics Department Prize, 2006 to 2011
-* European Recovery Program Scholarship, 2006 to 2008
+* European Recovery Program scholarship, 2006 to 2008
 * *Studienstiftung des deutschen Volkes* (German Academic Scholarship Foundation), 2001 to 2006
 * *Deutscher Akademischer Austauschdienst* (German Academic Exchange Service), 2004/2005
 
@@ -51,5 +51,5 @@ redirect_from:
 
 * [Meghan I. Esson](https://sites.google.com/view/meghan-i-esson/home) (2019, placement: Assistant Professor, Bentley University)
 * [Kimberly D. Groover](https://sites.google.com/view/kimberlydgroover/home) (2019,  placement: Economist, Abt Associates)
-* [Vincent Chandler](https://vincentchandler.webs.com/) (2014, placement: Assistant Professor, St. Mary’s University; current position: Assistant Professor, Université du Québec en Outaouais)
+* [Vincent Chandler](https://vincentchandler.webs.com/) (2014, placement: Assistant Professor, St. Mary’s University)
 * [Dörte Heger](http://en.rwi-essen.de/dorte-heger) (2014, placement: Researcher, RWI–Leibniz Institute for Economic Research)
