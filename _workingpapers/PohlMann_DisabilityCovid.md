@@ -1,9 +1,9 @@
 ---
 title: "County-Level Drivers of Disability Benefit Claims in Times of COVID-19"
 collection: workingpapers
-permalink: /workingpapers/PohlMann_DiabilityCovid
+permalink: /workingpapers/PohlMann_DisabilityCovid
 date: 2022-12-21
-paperurl: 'http://rvpohl.github.io/files/PohlMann_DiabilityCovid.pdf'
+paperurl: 'http://rvpohl.github.io/files/PohlMann_DisabilityCovid.pdf'
 citation: 'Pohl, R. Vincent, David R. Mann. 2022. “County-Level Drivers of Disability Benefit Claims in Times of COVID-19.” Center for Retirement Research at Boston College Working Paper 2022-19.' 
 ---
 <i>Abstract:</i> 
