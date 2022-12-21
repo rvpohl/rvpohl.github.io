@@ -4,7 +4,7 @@ collection: workingpapers
 permalink: /workingpapers/PohlMann_DisabilityCovid
 date: 2022-12-21
 paperurl: 'http://rvpohl.github.io/files/PohlMann_DisabilityCovid.pdf'
-citation: 'Pohl, R. Vincent, David R. Mann. 2022. “County-Level Drivers of Disability Benefit Claims in Times of COVID-19.” Center for Retirement Research at Boston College Working Paper 2022-19.' 
+citation: 'Pohl, R. Vincent, and David R. Mann. 2022. “County-Level Drivers of Disability Benefit Claims in Times of COVID-19.” Center for Retirement Research at Boston College Working Paper 2022-19.' 
 ---
 <i>Abstract:</i> 
 The COVID-19 pandemic likely affected applications and awards for Supplemental Security Income (SSI) and Social Security Disability Insurance (SSDI).  This paper uses Social Security Administration (SSA) administrative data on applications and awards, combined with county-level data on COVID-19 severity, unemployment, and proximity to an SSA field office, to understand drivers of application and award rates.  Specifically, it examines how changes from 2019 to 2020 in SSI and SSDI application and award rates were related to county-level factors affected by the pandemic.
