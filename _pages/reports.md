@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Pohl, R. Vincent, Lianlian Lei, and Matthew Niedzwiecki. [“Matching Methods for the Evaluation of Section 1115 Demonstrations.”](https://www.medicaid.gov/medicaid/section-1115-demo/downloads/evaluation-reports/matching-methods.pdf) White paper submitted to the Centers for Medicare & Medicaid Services. Washington, DC: Mathematica, February 2023.
+
 Keshaviah, Aparna, R. Vincent Pohl, Xindi C. Hu, Alyssa Maccarone, John Hotchkiss, Ian Huff, Hanzhi Zhou, and Divya Vohra. [“The Effects of
 Healthy Davis Together: A COVID-19 Response Program.”](https://www.mathematica.org/download-media?MediaItemId={7AED3094-1DFB-4372-8941-126B552E7A1A}) Mathematica brief, July 2022. Media coverage: [Politico](https://www.politico.com/news/magazine/2022/09/25/the-city-that-survived-covid-better-than-the-rest-of-us-00050564).
 
