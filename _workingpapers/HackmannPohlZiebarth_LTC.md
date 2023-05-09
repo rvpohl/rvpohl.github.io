@@ -2,7 +2,7 @@
 title: "Patient Versus Provider Incentives in Long-Term Care"
 collection: workingpapers
 permalink: /workingpapers/HackmannPohlZiebarth_LTC
-date: 2020-08-12
+date: 2023-05-03
 paperurl: 'http://rvpohl.github.io/files/HackmannPohlZiebarth_LTC.pdf'
 citation: 'Hackmann, Martin B., R. Vincent Pohl, and Nicolas R. Ziebarth. 2023. “Patient Versus Provider Incentives in Long-Term Care.” Revised and resubmitted at <i>American Economic Journal: Applied Economics.</i>'
 ---
