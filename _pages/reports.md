@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Pohl, R. Vincent, Cara Orfield, Kara Nester, Kimberly Aguillard, Anna Pickrell, Jessica Rosenblum, Sean Orzol, and Monica Lazaro Davadi. ["Evaluation of the Colorado Health Insurance Affordability Enterprise FY 2022/23."](https://drive.google.com/drive/u/0/mobile/folders/1s50oDuIztROyYkI2fHfygzoVRAL16O6L/17WexLl8PK2QekdU0w7CN2xrgX57rMMy6/1xb4znVVH2A85Kl_bql8vdILiOdoQH6Us/1u0ko7QvZCVZMMSSzdng8PXpxDpNC1jAK?sort=13&direction=a) Final evaluation report submitted to the Colorado Division of Insurance. Seattle, WA: Mathematica, June 2023.
+
 Pohl, R. Vincent, Lianlian Lei, and Matthew Niedzwiecki. [“Matching Methods for the Evaluation of Section 1115 Demonstrations.”](https://www.medicaid.gov/medicaid/section-1115-demo/downloads/evaluation-reports/matching-methods.pdf) White paper submitted to the Centers for Medicare & Medicaid Services. Washington, DC: Mathematica, February 2023.
 
 Keshaviah, Aparna, R. Vincent Pohl, Xindi C. Hu, Alyssa Maccarone, John Hotchkiss, Ian Huff, Hanzhi Zhou, and Divya Vohra. [“The Effects of
