@@ -7,17 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Pohl, R. Vincent, Cara Orfield, Kara Nester, Kimberly Aguillard, Anna Pickrell, Jessica Rosenblum, Sean Orzol, and Monica Lazaro Davadi. [“Evaluation of the Colorado Health Insurance Affordability Enterprise FY 2022/23.”](https://www.mathematica.org/download-media?MediaItemId={CE7A7DD7-1748-435A-8F93-9A22F0716C21}) Final evaluation report submitted to the Colorado Division of Insurance. Seattle, WA: Mathematica, June 2023.
-[Blog post](https://www.mathematica.org/blogs/how-colorado-provided-almost-10000-immigrants-with-undocumented-status-with-health-insurance)
+Pohl, R. Vincent, Cara Orfield, Kara Nester, Kimberly Aguillard, Anna Pickrell, Jessica Rosenblum, Sean Orzol, and Monica Lazaro Davadi. [“Evaluation of the Colorado Health Insurance Affordability Enterprise FY 2022/23.”](https://www.mathematica.org/download-media?MediaItemId={CE7A7DD7-1748-435A-8F93-9A22F0716C21}) Final evaluation report submitted to the Colorado Division of Insurance. Seattle, WA: Mathematica, June 2023.  [Blog post](https://www.mathematica.org/blogs/how-colorado-provided-almost-10000-immigrants-with-undocumented-status-with-health-insurance)
 
 Pohl, R. Vincent, Lianlian Lei, and Matthew Niedzwiecki. [“Matching Methods for the Evaluation of Section 1115 Demonstrations.”](https://www.medicaid.gov/medicaid/section-1115-demo/downloads/evaluation-reports/matching-methods.pdf) White paper submitted to the Centers for Medicare & Medicaid Services. Washington, DC: Mathematica, February 2023.
 
 Keshaviah, Aparna, R. Vincent Pohl, Xindi C. Hu, Alyssa Maccarone, John Hotchkiss, Ian Huff, Hanzhi Zhou, and Divya Vohra. [“The Effects of
-Healthy Davis Together: A COVID-19 Response Program.”](https://www.mathematica.org/download-media?MediaItemId={7AED3094-1DFB-4372-8941-126B552E7A1A}) Mathematica brief, July 2022. 
-Media coverage: [Politico](https://www.politico.com/news/magazine/2022/09/25/the-city-that-survived-covid-better-than-the-rest-of-us-00050564)
+Healthy Davis Together: A COVID-19 Response Program.”](https://www.mathematica.org/download-media?MediaItemId={7AED3094-1DFB-4372-8941-126B552E7A1A}) Mathematica brief, July 2022.  Media coverage: [Politico](https://www.politico.com/news/magazine/2022/09/25/the-city-that-survived-covid-better-than-the-rest-of-us-00050564)
 
-Kranker, Keith, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Marlena Luhr, Lauren Vollmer Forrow, and Valerie Cheh. [“Evaluation of the Medicare Care Choices Model.”](https://innovation.cms.gov/data-and-reports/2022/mccm-fourth-annrpt) Annual Report 4 submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, April 2022. 
-Media coverage: [Stateline](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/09/what-if-hospice-services-werent-just-for-the-dying)
+Kranker, Keith, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Marlena Luhr, Lauren Vollmer Forrow, and Valerie Cheh. [“Evaluation of the Medicare Care Choices Model.”](https://innovation.cms.gov/data-and-reports/2022/mccm-fourth-annrpt) Annual Report 4 submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, April 2022.  Media coverage: [Stateline](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/09/what-if-hospice-services-werent-just-for-the-dying)
 
 Honeycutt, Todd, Amal Harrati, Andrew Langan, Gina Livermore, and R. Vincent Pohl. [“Evaluation Options for the Papers Developed Under the SSI Youth Solutions Project.”](https://www.mathematica.org/download-media?MediaItemId={D16252B7-1F81-4AE6-8577-3802A2F95B28}) Report submitted to the U.S. Department of Labor, Office of Disability Employment Policy. Princeton, NJ: Mathematica, October 2021.
 
