@@ -17,7 +17,7 @@ Healthy Davis Together: A COVID-19 Response Program.”](https://www.mathematica
 Media coverage: [Politico](https://www.politico.com/news/magazine/2022/09/25/the-city-that-survived-covid-better-than-the-rest-of-us-00050564)
 
 Kranker, Keith, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Marlena Luhr, Lauren Vollmer Forrow, and Valerie Cheh. [“Evaluation of the Medicare Care Choices Model.”](https://innovation.cms.gov/data-and-reports/2022/mccm-fourth-annrpt) Annual Report 4 submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, April 2022. 
-Media coverage: [Stateline](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/09/what-if-hospice-services-werent-just-for-the-dying).
+Media coverage: [Stateline](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/09/what-if-hospice-services-werent-just-for-the-dying)
 
 Honeycutt, Todd, Amal Harrati, Andrew Langan, Gina Livermore, and R. Vincent Pohl. [“Evaluation Options for the Papers Developed Under the SSI Youth Solutions Project.”](https://www.mathematica.org/download-media?MediaItemId={D16252B7-1F81-4AE6-8577-3802A2F95B28}) Report submitted to the U.S. Department of Labor, Office of Disability Employment Policy. Princeton, NJ: Mathematica, October 2021.
 
