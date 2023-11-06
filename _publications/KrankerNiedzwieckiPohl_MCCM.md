@@ -1,5 +1,5 @@
 ---
-title: “Medicare Care Choices Model Improved End-Of-Life Care, Lowered Medicare Expenditures, And Increased Hospice Use”
+title: "Medicare Care Choices Model Improved End-Of-Life Care, Lowered Medicare Expenditures, And Increased Hospice Use"
 collection: publications
 permalink: /publications/KrankerNiedzwieckiPohl_MCCM
 date: 2023-11-06
