@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Kranker, Keith, Boyd Gilman, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Jonathan Gellar, Marlena Luhr, Patricia Rowan, Lauren Vollmer Forrow, and Danielle Whicher. [“Evaluation of the Medicare Care Choices Model.”](https://www.cms.gov/priorities/innovation/data-and-reports/2023/mccm-fifth-annrpt) Fifth and Final Report submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, November 2023. 
+Kranker, Keith, Boyd Gilman, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Jonathan Gellar, Marlena Luhr, Patricia Rowan, Lauren Vollmer Forrow, and Danielle Whicher. [“Evaluation of the Medicare Care Choices Model.”](https://www.cms.gov/priorities/innovation/data-and-reports/2023/mccm-fifth-annrpt) Fifth and Final Report submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, November 2023. <br />
+Media coverage: [Hospice News](https://hospicenews.com/2023/11/07/cms-concurrent-hospice-care-improves-quality-reduces-costs/)
 
 Pohl, R. Vincent, Cara Orfield, Kara Nester, Kimberly Aguillard, Anna Pickrell, Jessica Rosenblum, Sean Orzol, and Monica Lazaro Davadi. [“Evaluation of the Colorado Health Insurance Affordability Enterprise FY 2022/23.”](https://www.mathematica.org/download-media?MediaItemId={CE7A7DD7-1748-435A-8F93-9A22F0716C21}) Final evaluation report submitted to the Colorado Division of Insurance. Seattle, WA: Mathematica, June 2023. <br />
 [Blog post](https://www.mathematica.org/blogs/how-colorado-provided-almost-10000-immigrants-with-undocumented-status-with-health-insurance)
