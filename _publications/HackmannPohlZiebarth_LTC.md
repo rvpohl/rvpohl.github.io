@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/HackmannPohlZiebarth_LTC
 date: 2023-10-06
 paperurl: 'http://rvpohl.github.io/files/HackmannPohlZiebarth_LTC.pdf'
-citation: 'Hackmann, Martin B., R. Vincent Pohl, and Nicolas R. Ziebarth. 2023. “Patient Versus Provider Incentives in Long-Term Care.” <i>American Economic Journal: Applied Economics</i>, forthcoming.'
+citation: ' Martin B. Hackmann, R. Vincent Pohl, and Nicolas R. Ziebarth. 2023. “Patient Versus Provider Incentives in Long-Term Care.” <i>American Economic Journal: Applied Economics</i>, forthcoming.'
 ---
 <i>Abstract:</i> How do patient and provider incentives affect the provision of long-term care? Our analysis of 551 thousand nursing home stays yields three main insights. First, Medicaid-covered residents prolong their stays instead of transitioning to community-based care due to limited cost-sharing. Second, when facility capacity binds, nursing homes shorten Medicaid stays to admit more profitable out-of-pocket private payers. Third, providers react more elastically to financial incentives than patients. Thus, targeting provider incentives through alternative payment models, such as episode-based reimbursement, is more effective than increasing patient cost-sharing in facilitating transitions to community-based care and generating long-term care savings.
 
