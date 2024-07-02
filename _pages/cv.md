@@ -27,9 +27,9 @@ redirect_from:
 
 ## Other Positions
 
-* Researcher, [Leibniz Science Campus Ruhr](https://lscr.rwi-essen.de/en/), 2018–present
 * Research Fellow, [RWI–Leibniz Institute for Economic Research](http://en.rwi-essen.de), 2018–present
 * Affiliate, [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de), 2018–present
+* Researcher, [Leibniz Science Campus Ruhr](https://lscr.rwi-essen.de/en/), 2018–2024
 * Deemed Employee, [Statistics Canada](https://www.statcan.gc.ca/eng/start), 2013–2019
 * Special Sworn Status Researcher, [U.S. Census Bureau](https://www.census.gov), 2010–2019
 
