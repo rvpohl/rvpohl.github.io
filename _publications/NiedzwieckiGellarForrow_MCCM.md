@@ -17,3 +17,5 @@ Data Collection/Extraction Methods. The sample included decedent Medicare benefi
 Principal Findings. Eligible beneficiaries from underserved groups were underrepresented in MCCM. MCCM increased enrollees' hospice use and the number of days at home and reduced aggressive treatment among all subgroups analyzed. MCCM also reduced disparities in hospice use by race and ethnicity and dual eligibility by 4.1 (90% credible interval [CI]: 1.3–6.1) and 2.4 (90% CI: 0.6–4.4) percentage points, respectively. It also reduced disparities in having multiple emergency department visits for rural enrollees by 1.3 (90% CI: 0.1–2.7) percentage points.
 
 Conclusions. MCCM increased hospice use and quality of end-of-life care for model enrollees from underserved groups and reduced disparities in hospice use and having multiple emergency department visits.
+
+[Online Appendix](http://rvpohl.github.io/files/NiedzwieckiGellarForrow_MCCM_App.pdf)
