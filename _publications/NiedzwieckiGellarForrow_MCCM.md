@@ -2,7 +2,7 @@
 title: "The Medicare Care Choices Model was associated with reductions in disparities in the use of hospice care for Medicare beneficiaries with terminal illness"
 collection: publications
 permalink: /publications/NiedzwieckiGellarForrow_MCCM
-date: 2024-02-29
+date: 2024-07-15
 paperurl: 'http://rvpohl.github.io/files/NiedzwieckiGellarForrow_MCCM.pdf'
 citation: 'Matthew J. Niedzwiecki, Lauren Vollmer Forrow, Jonathan Gellar, R. Vincent Pohl, Arnold Chen, Lynn Miescier, and Keith Kranker. 2024. “The Medicare Care Choices Model was associated with reductions in disparities in the use of hospice care for Medicare beneficiaries with terminal illness.” <i>Health Services Research</i>, 59(4), e14289.'
 ---
