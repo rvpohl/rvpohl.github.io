@@ -1,9 +1,9 @@
 ---
 title: "The Medicare Care Choices Model was associated with reductions in disparities in the use of hospice care for Medicare beneficiaries with terminal illness"
 collection: publications
-permalink: /publications/NiedzwieckiGellarForrow_MCCM
+permalink: /publications/NiedzwieckiForrowGellarPohl_MCCM
 date: 2024-07-15
-paperurl: 'http://rvpohl.github.io/files/NiedzwieckiGellarForrow_MCCM.pdf'
+paperurl: 'http://rvpohl.github.io/files/NiedzwieckiForrowGellarPohl_MCCM.pdf'
 citation: 'Matthew J. Niedzwiecki, Lauren Vollmer Forrow, Jonathan Gellar, R. Vincent Pohl, Arnold Chen, Lynn Miescier, and Keith Kranker. 2024. “The Medicare Care Choices Model was associated with reductions in disparities in the use of hospice care for Medicare beneficiaries with terminal illness.” <i>Health Services Research</i>, 59(4), e14289.'
 ---
 <i>Abstract:</i> Objective. To assess the effects of the Medicare Care Choices Model (MCCM) on disparities in hospice use and quality of end-of-life care for Medicare beneficiaries from underserved groups—those from racial and ethnic minority groups, dually eligible for Medicare and Medicaid, or living in rural areas.
@@ -18,4 +18,4 @@ Principal Findings. Eligible beneficiaries from underserved groups were underrep
 
 Conclusions. MCCM increased hospice use and quality of end-of-life care for model enrollees from underserved groups and reduced disparities in hospice use and having multiple emergency department visits.
 
-[Online Appendix](http://rvpohl.github.io/files/NiedzwieckiGellarForrow_MCCM_App.pdf)
+[Online Appendix](http://rvpohl.github.io/files/NiedzwieckiForrowGellarPohl_MCCM_App.pdf)
