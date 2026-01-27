@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+R. Vincent Pohl, Alli Steiner, Monica Lazaro Davadi, Kara Nester, Leah Faunce, Monica Farid, and Becca Gordon. [“Analysis of the Colorado Option, pursuant to § 10-16-1310, C.R.S.”](https://www.mathematica.org/download-media?MediaItemId={9E94F7BD-B8BB-4B08-960E-4A3BC2C78F58}) Final evaluation report submitted to the Colorado Division of Insurance. Washington, DC: Mathematica, January 2026.
+
 Keith Kranker, Boyd Gilman, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Jonathan Gellar, Marlena Luhr, Patricia Rowan, Lauren Vollmer Forrow, and Danielle Whicher. [“Evaluation of the Medicare Care Choices Model.”](https://www.cms.gov/priorities/innovation/data-and-reports/2023/mccm-fifth-annrpt) Fifth and Final Report submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, November 2023. <br />
 Media coverage: [Hospice News](https://hospicenews.com/2023/11/07/cms-concurrent-hospice-care-improves-quality-reduces-costs/)
 
@@ -21,8 +23,6 @@ Media coverage: [Politico](https://www.politico.com/news/magazine/2022/09/25/the
 
 Keith Kranker, Matthew Niedzwiecki, R. Vincent Pohl, Arnold Chen, Marlena Luhr, Lauren Vollmer Forrow, and Valerie Cheh. [“Evaluation of the Medicare Care Choices Model.”](https://innovation.cms.gov/data-and-reports/2022/mccm-fourth-annrpt) Annual Report 4 submitted to the Center for Medicare & Medicaid Innovation. Princeton, NJ: Mathematica, April 2022. <br />
 Media coverage: [Stateline](https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2022/06/09/what-if-hospice-services-werent-just-for-the-dying)
-
-Todd Honeycutt, Amal Harrati, Andrew Langan, Gina Livermore, and R. Vincent Pohl. [“Evaluation Options for the Papers Developed Under the SSI Youth Solutions Project.”](https://www.mathematica.org/download-media?MediaItemId={D16252B7-1F81-4AE6-8577-3802A2F95B28}) Report submitted to the U.S. Department of Labor, Office of Disability Employment Policy. Princeton, NJ: Mathematica, October 2021.
 
 Katharine Bradley, Jessica Heeringa, R. Vincent Pohl, James D. Reschovsky, and Maggie Samra. [“Selecting the Best Comparison Group and Evaluation Design: A Guidance Document for State Section 1115 Demonstration Evaluations.”](https://www.medicaid.gov/medicaid/section-1115-demo/downloads/evaluation-reports/comparison-grp-eval-dsgn.pdf) White paper submitted to the Centers for Medicare & Medicaid Services. Washington, DC: Mathematica, October 2020.
 
