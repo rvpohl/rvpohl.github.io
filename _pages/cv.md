@@ -27,6 +27,7 @@ redirect_from:
 
 ## Other Positions
 
+* Co-Editor, [European Journal of Health Economics](https://link.springer.com/journal/10198), 2026–present
 * Research Fellow, [RWI–Leibniz Institute for Economic Research](http://en.rwi-essen.de), 2018–present
 * Affiliate, [Hamburg Center for Health Economics](https://www.hche.uni-hamburg.de), 2018–present
 * Researcher, [Leibniz Science Campus Ruhr](https://lscr.rwi-essen.de/en/), 2018–2024
